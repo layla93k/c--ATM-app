@@ -1,0 +1,14 @@
+/home/layla/coding-post-nc/c--ATM-app/ATM-app/obj/Debug/net8.0/ATM-app.GeneratedMSBuildEditorConfig.editorconfig
+/home/layla/coding-post-nc/c--ATM-app/ATM-app/obj/Debug/net8.0/ATM-app.AssemblyInfoInputs.cache
+/home/layla/coding-post-nc/c--ATM-app/ATM-app/obj/Debug/net8.0/ATM-app.AssemblyInfo.cs
+/home/layla/coding-post-nc/c--ATM-app/ATM-app/obj/Debug/net8.0/ATM-app.csproj.CoreCompileInputs.cache
+/home/layla/coding-post-nc/c--ATM-app/ATM-app/bin/Debug/net8.0/ATM-app
+/home/layla/coding-post-nc/c--ATM-app/ATM-app/bin/Debug/net8.0/ATM-app.deps.json
+/home/layla/coding-post-nc/c--ATM-app/ATM-app/bin/Debug/net8.0/ATM-app.runtimeconfig.json
+/home/layla/coding-post-nc/c--ATM-app/ATM-app/bin/Debug/net8.0/ATM-app.dll
+/home/layla/coding-post-nc/c--ATM-app/ATM-app/bin/Debug/net8.0/ATM-app.pdb
+/home/layla/coding-post-nc/c--ATM-app/ATM-app/obj/Debug/net8.0/ATM-app.dll
+/home/layla/coding-post-nc/c--ATM-app/ATM-app/obj/Debug/net8.0/refint/ATM-app.dll
+/home/layla/coding-post-nc/c--ATM-app/ATM-app/obj/Debug/net8.0/ATM-app.pdb
+/home/layla/coding-post-nc/c--ATM-app/ATM-app/obj/Debug/net8.0/ATM-app.genruntimeconfig.cache
+/home/layla/coding-post-nc/c--ATM-app/ATM-app/obj/Debug/net8.0/ref/ATM-app.dll
